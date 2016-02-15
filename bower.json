@@ -1,0 +1,19 @@
+{
+  "name": "training",
+  "homepage": "https://github.com/erickdc/TrainingMgr",
+  "authors": [
+    "erickdc <erickson_523@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/src/components",
+    "test",
+    "tests"
+  ]
+}
